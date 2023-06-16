@@ -41,4 +41,4 @@
 ![generate background](https://github.com/jayllfpt/ClassicPongGame/blob/main/Prompt/background%20generate%20(1).jpeg)
 <br></br>
 <br> The background generated is 1024x1024, to add background to game windows, I resize the background and the game windows size to 640x640</br>
-<br> Tthe code run smoothly after changing the filepath, there are **no more bugs**. This seems that the code generated from GPT is usable, just for this simple project.</br>
+<br> The code run smoothly after changing the filepath, there are **no more bugs**. This seems that the code generated from GPT is usable, just for this simple project.</br>
